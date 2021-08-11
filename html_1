@@ -1,0 +1,66 @@
+<html>
+<body>
+<h1>Merhaba Dünya</h1>
+<p>Bu bir denemedir</p>
+</body>
+</html>
+
+--------------------------------------------------------------------
+<html>
+<body>
+<h1>Merhaba Dünya 1</h1>
+<h2>Merhaba Dünya 2</h2>
+<h2>Merhaba Dünya 3</h2>
+<p>Bu bir denemedir</p>
+<div>Bu bir denemedir 2</div>
+<span>Bu bir denemedir 3</span>
+<a href="http://google.com">Google‘ a git</a>
+</body>
+</html>
+
+-------------------------------------------------------------------
+<html>
+<body>
+<h1>Merhaba Dünya 1</h1>
+<h2>Merhaba Dünya 2</h2>
+<h2>Merhaba Dünya 3</h2>
+<p>Bu bir denemedir</p>
+<div>Bu bir denemedir 2</div>
+<span>Bu bir denemedir 3</span>
+<a href="http://google.com">Google‘ a git</a>
+<img src = "turtle.jpg" alt = "Kaplumbağa" width="300" height="300">
+</body>
+</html>
+
+---------------------------------------------------------------
+<html>
+<body>
+<h2>Sırasız HTML Listesi</h2>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+<h2>Sıralı HTML Listesi</h2>
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+</body>
+</html>
+
+--------------------------------------------------------------
+<html>
+<body>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<h1>Merhaba Dünya 1</h1>
+<h2 style="color:red;">Merhaba Dünya 2</h2>
+</body>
+</html>
