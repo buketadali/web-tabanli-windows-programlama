@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Sample Web Page</title>
+    </head>
+    <body>
+        <form action="Another_Page.php">
+            <input type="checkbox" /> This is choice #1<br />
+            <input type="checkbox" /> This is choice #2<br /><br />
+            <input type="submit" value="Submit" />
+        </form>
+    </body>
+</html>
+-------------------------------------------------------------------
