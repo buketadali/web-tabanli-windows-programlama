@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridViewApp2", "GridViewApp2\GridViewApp2.csproj", "{69C87B1D-ABBD-4EE5-B461-055E3CB6EFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C87B1D-ABBD-4EE5-B461-055E3CB6EFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C87B1D-ABBD-4EE5-B461-055E3CB6EFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C87B1D-ABBD-4EE5-B461-055E3CB6EFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C87B1D-ABBD-4EE5-B461-055E3CB6EFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2726BFC-63B5-4DF9-8785-50516CDF1CFD}
+	EndGlobalSection
+EndGlobal
